@@ -46,6 +46,10 @@
           <option name="url" value="git@github.com:opeyemi-jonah/about-jonah.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:DylanSmithcg/about-dylan.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\17038\Desktop\bootcamp\git" />
