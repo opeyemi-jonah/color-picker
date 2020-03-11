@@ -66,6 +66,10 @@
           <option name="url" value="git@github.com:opeyemi-jonah/data-design.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:ddc-fullstack-cohort-28/snap-challenges-opeyemi-jonah.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\17038\Desktop\bootcamp\git" />
