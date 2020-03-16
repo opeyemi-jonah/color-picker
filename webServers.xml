@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="0d988b1b-dd2c-460c-a36f-b56bd3b90d0c" name="practice-project" url="https://bootcamp-coders.cnm.edu/~ojonah/prework">
-        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/ojonah/public_html/prework" accessType="SFTP" authAgent="true">
+      <webServer id="0d988b1b-dd2c-460c-a36f-b56bd3b90d0c" name="practice-project" url="https://bootcamp-coders.cnm.edu/~ojonah/snap03">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/ojonah/public_html/snap03" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
