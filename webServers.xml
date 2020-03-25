@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="0d988b1b-dd2c-460c-a36f-b56bd3b90d0c" name="pdo101" url="https://bootcamp-coders.cnm.edu/~ojonah/pdo101">
-        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/ojonah/public_html/pdo101" accessType="SFTP" authAgent="true">
+      <webServer id="0d988b1b-dd2c-460c-a36f-b56bd3b90d0c" name="data-design" url="https://bootcamp-coders.cnm.edu/~ojonah/data-design">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/ojonah/public_html/data-design" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
