@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="0d988b1b-dd2c-460c-a36f-b56bd3b90d0c" name="milestone1" url="https://bootcamp-coders.cnm.edu/~ojonah/jonah-pwp">
-        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/ojonah/jonah-pwp" accessType="SFTP" authAgent="true">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/ojonah/public_html/jonah-pwp" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
