@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="5a5361a8-9da2-494f-9117-bf5b5336681d" name="oop2" url="http://bootcamp-coders.cnm.edu/~ojonah/jonah-pwp">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/ojonah/public_html/jonah-pwp" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
