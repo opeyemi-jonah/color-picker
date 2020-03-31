@@ -2,14 +2,14 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="0d988b1b-dd2c-460c-a36f-b56bd3b90d0c" name="milestone1" url="https://bootcamp-coders.cnm.edu/~ojonah/jonah-pwp">
-        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/public_html/jonah-pwp" accessType="SFTP" authAgent="true">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/ojonah/public_html/jonah-pwp" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="5a5361a8-9da2-494f-9117-bf5b5336681d" name="oop2" url="http://bootcamp-coders.cnm.edu/~ojonah/jonah-pwp">
+      <webServer id="5a5361a8-9da2-494f-9117-bf5b5336681d" name="oop2" url="https://bootcamp-coders.cnm.edu/~ojonah/jonah-pwp">
         <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/ojonah/public_html/jonah-pwp" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
